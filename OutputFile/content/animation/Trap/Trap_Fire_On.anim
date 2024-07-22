@@ -1,0 +1,28 @@
+[ANIMATION_NAME]
+Trap_Fire_On
+
+[ATLAS_TEXTURE]
+Trap_Fire_On
+texture\Trap_Fire_On.png
+
+[FRAME_DATA]
+Frame_Count 3
+
+Frame_Index 0
+Left_Top    0.000000 0.000000
+Offset      0.000000 -32.000000
+Slice       32.000000 64.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    32.000000 0.000000
+Offset      0.000000 -32.000000
+Slice       32.000000 64.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    64.000000 0.000000
+Offset      0.000000 -32.000000
+Slice       32.000000 64.000000
+Duration    0.100000
+

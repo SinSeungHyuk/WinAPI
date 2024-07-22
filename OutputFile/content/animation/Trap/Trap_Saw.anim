@@ -1,0 +1,58 @@
+[ANIMATION_NAME]
+Trap_Saw
+
+[ATLAS_TEXTURE]
+Trap_Saw
+texture\Trap_Saw.png
+
+[FRAME_DATA]
+Frame_Count 8
+
+Frame_Index 0
+Left_Top    0.000000 0.000000
+Offset      0.000000 -38.000000
+Slice       76.000000 76.000000
+Duration    0.033333
+
+Frame_Index 1
+Left_Top    76.000000 0.000000
+Offset      0.000000 -38.000000
+Slice       76.000000 76.000000
+Duration    0.033333
+
+Frame_Index 2
+Left_Top    152.000000 0.000000
+Offset      0.000000 -38.000000
+Slice       76.000000 76.000000
+Duration    0.033333
+
+Frame_Index 3
+Left_Top    228.000000 0.000000
+Offset      0.000000 -38.000000
+Slice       76.000000 76.000000
+Duration    0.033333
+
+Frame_Index 4
+Left_Top    304.000000 0.000000
+Offset      0.000000 -38.000000
+Slice       76.000000 76.000000
+Duration    0.033333
+
+Frame_Index 5
+Left_Top    380.000000 0.000000
+Offset      0.000000 -38.000000
+Slice       76.000000 76.000000
+Duration    0.033333
+
+Frame_Index 6
+Left_Top    456.000000 0.000000
+Offset      0.000000 -38.000000
+Slice       76.000000 76.000000
+Duration    0.033333
+
+Frame_Index 7
+Left_Top    532.000000 0.000000
+Offset      0.000000 -38.000000
+Slice       76.000000 76.000000
+Duration    0.033333
+

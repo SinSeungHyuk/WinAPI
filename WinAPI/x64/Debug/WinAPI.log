@@ -1,0 +1,8 @@
+﻿  CLevel_Editor.cpp
+C:\Users\syjsh\OneDrive\바탕 화면\work\포트폴리오\WinApiProject\WinAPI\CLevel_Editor.cpp(60,13): warning C4244: '초기화 중': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\syjsh\OneDrive\바탕 화면\work\포트폴리오\WinApiProject\WinAPI\CLevel_Editor.cpp(61,14): warning C4244: '초기화 중': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\syjsh\OneDrive\바탕 화면\work\포트폴리오\WinApiProject\WinAPI\CLevel_Editor.cpp(147,13): warning C4244: '초기화 중': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\syjsh\OneDrive\바탕 화면\work\포트폴리오\WinApiProject\WinAPI\CLevel_Editor.cpp(148,14): warning C4244: '초기화 중': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\syjsh\OneDrive\바탕 화면\work\포트폴리오\WinApiProject\WinAPI\CLevel_Editor.cpp(173,12): warning C4244: '초기화 중': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\syjsh\OneDrive\바탕 화면\work\포트폴리오\WinApiProject\WinAPI\CLevel_Editor.cpp(174,12): warning C4244: '초기화 중': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  WinAPI.vcxproj -> C:\Users\syjsh\OneDrive\바탕 화면\work\포트폴리오\WinApiProject\OutputFile\bin\WinAPI_D.exe
